@@ -1,4 +1,4 @@
-# My first python project
+# My pygame project
 
 Python - Alien Invasion
 
